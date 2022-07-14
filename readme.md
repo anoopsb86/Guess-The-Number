@@ -5,3 +5,5 @@
 #Another trial
 
 #Added new HTML file for trial
+
+#Commit all files together
