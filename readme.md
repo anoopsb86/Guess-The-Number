@@ -7,3 +7,5 @@
 #Added new HTML file for trial
 
 #Commit all files together
+
+#Modified game title name and heading name to 'Guess The Number'
