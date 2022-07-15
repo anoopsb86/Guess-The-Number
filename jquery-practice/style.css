@@ -63,6 +63,12 @@ main {
   color: antiquewhite;
 }
 
+.success-email,
+.success-password {
+  font-size: 20px;
+  color: rgb(235, 154, 48);
+}
+
 .login-logo {
   height: 125px;
   position: absolute;
