@@ -4,7 +4,6 @@
     home: { title: 'Home Page', handler: 'HomePage' },
     about: { title: 'About Page', handler: 'AboutPage' },
     contact: { title: 'Contact Page', handler: 'ContactPage' },
-    logout: { title: 'Login Page', handler: 'LoginPage' },
   };
 
   class RouteHandler {
